@@ -61,7 +61,7 @@ parts:
       - file: features/update_env
     - file: features/sphinx_extensions.md
       sections: 
-      - external: https://github.com/TeachBooks/Download-Link-Replacer/blob/main/README.md
+      - external: https://github.com/TeachBooks/Download-Link-Replacer/blob/manual_docs/README.md
       - file: external/Sphinx-launch-buttons/README.md
       - file: basic-features/utterances.md
       - file: features/jupyterquiz.ipynb
